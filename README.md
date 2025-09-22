@@ -1,6 +1,6 @@
-<h1> align="center">🎲 jogo amigo secreto</h1><br>
+<h1 align="center"> 🎲 jogo amigo secreto</h1><br>
 <p>Um jogo simples e divertido desenvolvido com JavaScript, HTML e CSS, no qual o jogador deve adivinhar um número secreto gerado aleatoriamente pelo sistema.<br><p>
-<h1 align="center"> Funcionalidades</h1><br>
+<h1 align="center"> 👨‍💻 Funcionalidades</h1><br>
 <p>Guarda os nomes inseridos.<br>
 Permite que o usuário insira quantos nomes quiser.<br>
 Não sorteia o mesmo nome.<br>
